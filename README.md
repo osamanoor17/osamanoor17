@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **mosamanoor17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zTj9Q_HoAGeYaefTQ1LYHUZMMf8DjEGP/view?usp=sharing](https://drive.google.com/file/d/1zTj9Q_HoAGeYaefTQ1LYHUZMMf8DjEGP/view?usp=sharing)
 
 - ⚡ Fun fact **Cricket, Photography, Video Editing.**
 
