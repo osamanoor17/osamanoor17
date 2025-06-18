@@ -25,8 +25,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osamanoor17&show_icons=true&theme=radical" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=osamanoor17&theme=radical&border_radius=5" alt="GitHub Streak" />
-</p>
+<!--   <img src="https://streak-stats.demolab.com?user=osamanoor17&theme=radical&border_radius=5" alt="GitHub Streak" />
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamanoor17&layout=compact&theme=radical" alt="Top Languages" />
