@@ -16,6 +16,7 @@
 - 📝 Articles on [LinkedIn](https://www.linkedin.com/in/mosamanoor/)
 - 💬 Ask me about **Flutter, Data Analysis, and Data Science**
 - 📫 Reach out at **mosamanoor17@gmail.com**
+- 📝 View my resume: https://drive.google.com/file/d/1cAu3WnO9vMAm45jdUXOpbjh5CIyoUbdp/view?usp=drive_link 
 - ⚡ Fun fact: I love **Cricket 🏏, Photography 📸, and Video Editing 🎬**
 
 ---
